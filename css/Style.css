@@ -147,6 +147,32 @@ img {
     padding: 10px 0;
 }
 
+.tabs .container > div:hover {
+    color: white;
+    cursor: pointer;
+}
+
+.tab--border{
+    border-bottom: var(--primary-color) 4px solid;
+}
+
+.tab--content{
+    padding: 40px 0;
+}
+.tab--1--content--in {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 32px;
+    justify-content: center;
+    align-items: center;
+}
+
+.content-text {
+    font-size: 17px;
+    color: white;
+    margin-bottom: 16px;
+}
+
 /* Container - Utility */
 .container {
     max-width: 70%;
