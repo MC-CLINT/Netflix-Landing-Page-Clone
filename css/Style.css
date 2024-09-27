@@ -1,5 +1,6 @@
 :root{
     --primary-color: #e50914;
+    --dark-color: #141414;
 }
 
 
@@ -114,6 +115,44 @@ img {
     line-height: 1.25;
     color: white;
     margin: 0 0 32px;
+}
+
+.tabs {
+    background: var(--dark-color);
+    padding-top: 16px;
+    border-bottom: #3d3d3d;
+}
+
+.tabs .container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr; /* grid-template-columns: repeat (3, 1fr) */
+    grid-gap: 16px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.tabs p {
+    font-size: 15px;
+    padding-top: 8px;
+}
+
+/* .container > div means the direct div within the container*/
+.tabs .container > div {
+    padding: 10px 0;
+}
+
+
+.tabs .container > div {
+    padding: 10px 0;
+}
+
+/* Container - Utility */
+.container {
+    max-width: 70%;
+    margin: auto;
+    padding: 0 32px; /* top and bottom , left and right */
+    overflow: hidden;
 }
 
 
