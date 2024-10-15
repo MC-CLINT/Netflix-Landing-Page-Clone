@@ -33,17 +33,22 @@ git clone https://github.com/MC-CLINT/Netflix-Landing-Page-Clone.git
 
 Navigate to the project directory:
 
-
-
 ## Usage
 Open index.html in a web browser to view the landing page.
 
 Navigate through the different tabs to see the content.
 
 ## Screenshots
-
-
-
+![Shot1](Screenshots/Screenshot_27-9-2024_172520_localhost.jpeg)
+![Shot2](Screenshots/Screenshot_27-9-2024_154513_localhost.jpeg)
+![Shot3](Screenshots/Screenshot_27-9-2024_153949_localhost.jpeg)
+![Shot4](Screenshots/Screenshot_27-9-2024_144351_localhost.jpeg)
+![Shot5](Screenshots/Screenshot_15-10-2024_171756_localhost.jpeg)
+![Shot6](Screenshots/Screenshot_15-10-2024_171740_localhost.jpeg)
+![Shot7](Screenshots/Screenshot_15-10-2024_171724_localhost.jpeg)
+![Shot8](Screenshots/Screenshot_15-10-2024_145022_localhost.jpeg)
+![Shot9](Screenshots/Screenshot_15-10-2024_14401_localhost.jpeg)
+![Shot10](Screenshots/Screenshot_15-10-2024_142629_localhost.jpeg)
 
 
 
