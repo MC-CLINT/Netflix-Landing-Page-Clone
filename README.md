@@ -28,7 +28,8 @@ JavaScript: Used to add interactivity and dynamic content.
 Clone the repository:
 
 
-git clone https://github.com/your-username/netflix-clone.git
+git clone https://github.com/MC-CLINT/Netflix-Landing-Page-Clone.git
+
 
 Navigate to the project directory:
 
@@ -41,10 +42,11 @@ Navigate through the different tabs to see the content.
 
 ## Screenshots
 
-![Shots](Screenshots%20-%20ProgessToCompletion)
 
 
 
 
-## Inspiration: 
+
+## Credit
 Travesty Media on Youtube
+Roadmap.sh
