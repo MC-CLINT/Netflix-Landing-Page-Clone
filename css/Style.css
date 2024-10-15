@@ -216,6 +216,31 @@ img {
     margin: 16px auto;
     overflow: auto;
 }
+
+.footer a{
+    color: #999999;
+    font-size: 15px;
+}
+
+.footer p{
+    margin-bottom: 24px;
+}
+
+.footer-columns{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 32px;
+}
+
+.footer li{
+    line-height: 2;
+}
+
+
+
+
+
+
 .content-text {
     font-size: 17px;
     margin-bottom: 16px;
