@@ -160,6 +160,17 @@ img {
     padding: 40px 0;
     color: white;
 }
+/* Hide Content as Default */
+#tab--1--content,
+#tab--2--content,
+#tab--3--content {
+    display: none;
+}
+
+.show{
+    display: block !important;
+}
+
 .tab--1--content--in {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -354,7 +365,7 @@ img {
         display: block;
         text-align: center;
     }
-    
+
     .tab--2--content--bottom{
         grid-template-columns: 1fr;
     }
